@@ -4,4 +4,4 @@ Repositori untuk keperluan Praktikum Algoritma Pemrograman Jurusan Informatika U
 #### Biodata
  Nama	: Muhammad Davin Fraska Buana
  NIM	: 123200171
- Kelas	: F
+ Kelas	: F IF
