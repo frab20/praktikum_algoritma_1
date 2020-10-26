@@ -18,7 +18,7 @@ digunakan untuk menambahkan tab agar lebih rapi dalam penggunaanya karakter tab 
 " \n atau endl; " 
 masing memiliki fungsi yang sama yaitu pindah baris hanya saja \t ditambahkan didalam petik dua dan endl ditambahkan diujung statement sebelum titik koma
 8. setelah source code program menampilkan data diri selesai kemudian di save dengan ektensi file .cpp 
-9. lalu langkah selanjutnya adalah meng-kompilasi code tahap ini yang paling penting ,tujuan dari langkah ini untuk menerjemahkan source code kita dari .cpp menjadi bahasa mesin yang dapat dikenali komputer 
+9. lalu langkah selanjutnya adalah meng-kompilasi code ,tujuan dari langkah ini untuk menerjemahkan source code kita dari .cpp menjadi bahasa mesin yang dapat dikenali komputer 
 10. di tahap kompilasi ini juga merupakan tahap dimana kita bisa mengetahui apakah source kode kita tidak ada eror
 11. jika tidak ada eror kemudian me-link hasil kompilasi atau build 
 12. dan jika sukses dan tidak ada eror selanjutnya kita jalankan program dengan menekan tombol execute
