@@ -1,5 +1,5 @@
 
-1. Memangil library #include<iostream>
+1. Memangil library " #include <iostream> "
 2. Selanjutnya menambahkan 
 " using namespace std; " 
 kegunaannya agar ketika memanggil syntax dari library tidak perlu menambahkan "std::" didepan syntax.
